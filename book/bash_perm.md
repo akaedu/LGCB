@@ -1,4 +1,4 @@
----
+/---
 layout: book
 title: Permissions
 ---
@@ -33,7 +33,7 @@ we are done.
 <div class="slide">
   <img src="/LGCB-assets/bash/perm_4.png" />
 </div>
-In reality of Linux, this was done by defining _file mode_ of a file.
+In the real world of Linux, this was done by defining _file mode_ of a file.
 If we do 
 
     ls -l a.txt
